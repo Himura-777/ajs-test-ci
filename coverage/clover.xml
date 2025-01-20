@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1737325690869" clover="3.2.0">
-  <project timestamp="1737325690869" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1" elements="12" coveredelements="12" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
+<coverage generated="1737362080469" clover="3.2.0">
+  <project timestamp="1737362080469" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="12" coveredconditionals="12" methods="4" coveredmethods="4" elements="29" coveredelements="29" complexity="0" loc="13" ncloc="13" packages="1" files="2" classes="2"/>
+    <file name="showAllHealthColor.js" path="/Users/himura/Desktop/Netology/ajs-test-ci/src/showAllHealthColor.js">
+      <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="7" count="9" type="stmt"/>
+      <line num="8" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="10" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="13" count="3" type="stmt"/>
+    </file>
     <file name="showHealthColor.js" path="/Users/himura/Desktop/Netology/ajs-test-ci/src/showHealthColor.js">
       <metrics statements="5" coveredstatements="5" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
       <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
